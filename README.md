@@ -1,0 +1,2 @@
+# Call56DeathMSG
+死んだ時におもしろい文章にするPlugin
