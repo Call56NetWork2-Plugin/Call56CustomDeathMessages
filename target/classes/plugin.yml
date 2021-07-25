@@ -1,0 +1,19 @@
+name: Call56customdeathmessages
+version: 1.0-SNAPSHOT
+main: com.kinoko2k.call56customdeathmessages.Call56CustomDeathMessages
+api-version: 1.17
+authors: [ Kinoko_2K ]
+
+commands:
+  cdm:
+    aliases: call56customdeathmessages
+    description: Command used for reloading.
+    permission: cdmg.reload
+
+permissions:
+  cdm.reload:
+    description: Permission used for reloading.
+  cdm.updates:
+    description: Permission used for sending update messages to ops.
+  cdm.toggle:
+    description: Permission for toggline features in config.
